@@ -11,9 +11,8 @@
   📫 How to reach me **halil.enes.ozdemir@gmail.com**
 </p>
 
-<p align="center">
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilenesozdemir)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
