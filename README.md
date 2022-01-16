@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **halil.enes.ozdemir@gmail.com**
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100 height="100" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilenesozdemir)](https://github.com/anuraghazra/github-readme-stats)
 
