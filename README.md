@@ -6,7 +6,6 @@
 
 <p align="center">
 - 📝 I regularly write articles on [https://halil-enes-ozdemir.medium.com](https://halil-enes-ozdemir.medium.com)
-
 - 📫 How to reach me **halil.enes.ozdemir@gmail.com**
 </p>
 
