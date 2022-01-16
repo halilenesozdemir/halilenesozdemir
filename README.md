@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **halil.enes.ozdemir@gmail.com**
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fcoding-man-gifs&psig=AOvVaw2FJhiGHg_RZwjwnVcpi80b&ust=1642406292382000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjIj6_mtfUCFQAAAAAdAAAAABAQ
-" alt="nodejs" width="40" height="40"/>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilenesozdemir)](https://github.com/anuraghazra/github-readme-stats)
 
