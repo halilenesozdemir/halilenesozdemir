@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate MERN stack developer candidate</h3>
 
-:round_pushpin: From [Istanbul, Turkey]
+:round_pushpin: From [Ankara, Turkey]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilenesozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="halilenesozdemir" /> </p>
