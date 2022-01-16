@@ -11,8 +11,6 @@
   📫 How to reach me **halil.enes.ozdemir@gmail.com**
 </p>
 
-<h3 align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilenesozdemir)](https://github.com/anuraghazra/github-readme-stats) </h3>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/halilenesozdemir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
