@@ -8,7 +8,7 @@
  📝 I regularly write articles on [https://halil-enes-ozdemir.medium.com]
 </p>
 <p align="center">
-  📫 How to reach me halil.enes.ozdemir@gmail.com
+  📫 How to reach me **halil.enes.ozdemir@gmail.com**
 </p>
 
 <h3 align="center">Connect with me:</h3>
