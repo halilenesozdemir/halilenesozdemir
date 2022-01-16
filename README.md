@@ -4,9 +4,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=halilenesozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="halilenesozdemir" /> </p>
 
+<p align="center">
 - 📝 I regularly write articles on [https://halil-enes-ozdemir.medium.com](https://halil-enes-ozdemir.medium.com)
 
 - 📫 How to reach me **halil.enes.ozdemir@gmail.com**
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilenesozdemir)](https://github.com/anuraghazra/github-readme-stats)
 
