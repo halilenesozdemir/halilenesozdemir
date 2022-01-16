@@ -6,9 +6,11 @@
 
 <p align="center">
  📝 I regularly write articles on [https://halil-enes-ozdemir.medium.com]
-  
- 📫 How to reach me **halil.enes.ozdemir@gmail.com**
 </p>
+<p align="center">
+  📫 How to reach me **halil.enes.ozdemir@gmail.com**
+</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilenesozdemir)](https://github.com/anuraghazra/github-readme-stats)
 
