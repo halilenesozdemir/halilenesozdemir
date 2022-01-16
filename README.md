@@ -6,6 +6,7 @@
 - 📝 I regularly write articles on [https://halil-enes-ozdemir.medium.com](https://halil-enes-ozdemir.medium.com)
 
 - 📫 How to reach me **halil.enes.ozdemir@gmail.com**
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fcoding-man-gifs&psig=AOvVaw2FJhiGHg_RZwjwnVcpi80b&ust=1642406292382000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjIj6_mtfUCFQAAAAAdAAAAABAQ
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilenesozdemir)](https://github.com/anuraghazra/github-readme-stats)
 
