@@ -15,9 +15,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/elifpulukcu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href=https://www.kaggle.com/elifpulukcu0><img src="https://img.shields.io/badge/Kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank"href="https://medium.com/@elifpulukcu"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/halilenesozdemir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank"href="https://halil-enes-ozdemir.medium.com"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
