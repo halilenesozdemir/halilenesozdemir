@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">A passionate MERN stack developer candidate from Turkey. Join Me on my Journey</h3>
+
+<h2 align="center">A passionate MERN stack developer candidate</h3>
+
+:round_pushpin: From [Istanbul, Turkey]
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilenesozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="halilenesozdemir" /> </p>
 
