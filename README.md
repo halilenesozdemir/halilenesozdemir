@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
 
-<h2 align="center">A passionate Back-End Developer from Ankara,Turkey</h3>
+<h2 align="center">A passionate Frontend Developer from Ankara,Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=halilenesozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="halilenesozdemir" /> </p>
 
