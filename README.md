@@ -5,10 +5,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=halilenesozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="halilenesozdemir" /> </p>
 
 <p align="center">
- 📝 I regularly write articles on [https://halil-enes-ozdemir.medium.com]
+ 📝 I regularly write articles on [Medium](https://halil-enes-ozdemir.medium.com)
 </p>
 <p align="center">
-  📫 How to reach me **halil.enes.ozdemir@gmail.com**
+  📫 How to reach me <strong>halil.enes.ozdemir@gmail.com<strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
