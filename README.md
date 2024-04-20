@@ -32,8 +32,8 @@
  <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
  <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 
-![Snake animation](https://raw.githubusercontent.com/halilenesozdemir/halilenesozdemir/output/github-contribution-grid-snake-dark.svg)
-                                                                                                                                       
+
+                                                                                                                                 
 <br>
 </p>
 <br>
