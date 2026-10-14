@@ -25,7 +25,13 @@
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cloudflare,vite,tailwind,styledcomponents,java,spring,git&perline=12" alt="TypeScript, JavaScript, React, Next.js, Node.js, Cloudflare, Vite, Tailwind, Styled Components, Java, Spring, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,git" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, Git">
 </p>
 
-React Native (Expo) · Hono · Cloudflare D1 · React Query · Supabase · Vitest · Stryker · Maestro
+### Currently learning
+
+DevOps through a bootcamp: Linux, Docker, Kubernetes and the cloud.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" alt="Linux, Docker, Kubernetes">
+</p>
