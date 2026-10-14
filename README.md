@@ -30,8 +30,8 @@
 
 ### Currently learning
 
-DevOps through a bootcamp: Linux, Docker, Kubernetes and the cloud.
+DevOps: Linux, Docker, Kubernetes and Google Cloud.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" alt="Linux, Docker, Kubernetes">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp" alt="Linux, Docker, Kubernetes, Google Cloud">
 </p>
