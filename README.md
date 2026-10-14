@@ -22,15 +22,6 @@
 | **Quality** | 1,100+ tests, Stryker mutation testing gating changed code, layering enforced by dependency-cruiser, pre-commit gate |
 | **Detail** | Turkish-aware text handling end to end (`i` → `İ`, not `I`) |
 
-### Selected projects
-
-| Project | What it shows |
-| --- | --- |
-| [turborepo-nextjs-mf-project](https://github.com/halilenesozdemir/turborepo-nextjs-mf-project) | Next.js micro-frontends: a host loading pages and components from two remotes via Module Federation |
-| [the-wild-oasis](https://github.com/halilenesozdemir/the-wild-oasis) | Hotel admin app with React Query, Supabase and a Styled Components UI kit |
-| [usepopcorn-ts](https://github.com/halilenesozdemir/usepopcorn-ts) | Movie search, ratings and watchlist in React + TypeScript with custom hooks |
-| [socket-io-real-time-chat](https://github.com/halilenesozdemir/socket-io-real-time-chat-client) | Room-based real-time chat: Next.js client, Express + Socket.IO server |
-
 ### Stack
 
 <p>
