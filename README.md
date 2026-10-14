@@ -12,7 +12,7 @@
 
 ---
 
-### Currently building: Harfhane
+### Currently building: [Harfhane](https://github.com/halilenesozdemir/harfhane)
 
 > A Turkish word game for web and Android — daily and unlimited modes, duels, XP and badges. In development, launching soon.
 
