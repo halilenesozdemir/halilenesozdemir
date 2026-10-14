@@ -14,7 +14,7 @@
 
 ### Currently building: [Harfhane](https://github.com/halilenesozdemir/harfhane)
 
-> A Turkish word game for web and Android — daily and unlimited modes, duels, XP and badges. In development, launching soon.
+> A Turkish word game for web and Android — a daily word everyone shares, unlimited play, 4 to 6 letter words, no accounts and no ads. In development, launching soon.
 
 | | |
 | --- | --- |
